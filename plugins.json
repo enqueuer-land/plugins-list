@@ -1,0 +1,37 @@
+[
+  {
+    "name": "enqueuer-plugin-html-report",
+    "description": "Enqueuer plugin to generate pretty html reports",
+    "githubUrl": "https://github.com/enqueuer-land/enqueuer-plugin-html-report"
+  },
+  {
+    "name": "enqueuer-plugin-sqs",
+    "description": "Enqueuer plugin for aws-sqs support",
+    "githubUrl": "https://github.com/enqueuer-land/enqueuer-plugin-sqs"
+  },
+  {
+    "name": "enqueuer-plugin-kafka",
+    "description": "Enqueuer plugin for kafka support",
+    "githubUrl": "https://github.com/enqueuer-land/enqueuer-plugin-kafka"
+  },
+  {
+    "name": "enqueuer-plugin-amqp",
+    "description": "Enqueuer plugin for amqp support",
+    "githubUrl": "https://github.com/enqueuer-land/enqueuer-plugin-amqp"
+  },
+  {
+    "name": "enqueuer-plugin-stomp",
+    "description": "Enqueuer plugin for stomp support",
+    "githubUrl": "https://github.com/enqueuer-land/enqueuer-plugin-stomp"
+  },
+  {
+    "name": "enqueuer-plugin-ws",
+    "description": "Enqueuer plugin for web socket support",
+    "githubUrl": "https://github.com/williamsdevaccount/enqueuer-plugin-ws"
+  },
+  {
+    "name": "enqueuer-plugin-redis",
+    "description": "Enqueuer plugin for redis pub/sub channel support",
+    "githubUrl": "https://github.com/williamsdevaccount/enqueuer-plugin-redis"
+  }
+]

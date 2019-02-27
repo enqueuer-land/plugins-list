@@ -1,0 +1,20 @@
+{
+  "name": "enqueuer-plugins-list",
+  "version": "1.0.0",
+  "description": "A repository of enqueuer plugins built by the community and the enqueuer team.",
+  "author": "Enqueuer",
+  "license": "MIT",
+  "scripts": {
+    "docs": "node generate-docs.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enqueuer-land/plugins-list.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^17.0.3",
+    "markdown-magic": "^0.1.20"
+  }
+}
