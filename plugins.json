@@ -33,5 +33,10 @@
     "name": "enqueuer-plugin-redis",
     "description": "Enqueuer plugin for redis pub/sub channel support",
     "githubUrl": "https://github.com/williamsdevaccount/enqueuer-plugin-redis"
+  },
+  {
+    "name": "enqueuer-plugin-mqtt",
+    "description": "Enqueuer plugin for mqtt support",
+    "githubUrl": "https://github.com/enqueuer-land/enqueuer-plugin-mqtt"
   }
 ]
