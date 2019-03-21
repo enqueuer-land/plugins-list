@@ -40,6 +40,11 @@
     "githubUrl": "https://github.com/enqueuer-land/enqueuer-plugin-mqtt"
   },
   {
+    "name": "enqueuer-plugin-xunit-report",
+    "description": "Enqueuer plugin to generate xunit reports that are compatible with many CI applications like Jenkins.",
+    "githubUrl": "https://github.com/williamsdevaccount/enqueuer-plugin-xunit-report"
+  },
+  {
     "name": "enqueuer-plugin-xml-parser",
     "description": "Enqueuer plugin to parse xml files",
     "githubUrl": "https://github.com/enqueuer-land/enqueuer-plugin-xml-parser"
