@@ -38,5 +38,10 @@
     "name": "enqueuer-plugin-mqtt",
     "description": "Enqueuer plugin for mqtt support",
     "githubUrl": "https://github.com/enqueuer-land/enqueuer-plugin-mqtt"
+  },
+  {
+    "name": "enqueuer-plugin-xml-parser",
+    "description": "Enqueuer plugin to parse xml files",
+    "githubUrl": "https://github.com/enqueuer-land/enqueuer-plugin-xml-parser"
   }
 ]
