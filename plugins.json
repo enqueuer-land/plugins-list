@@ -48,5 +48,10 @@
     "name": "enqueuer-plugin-xml-parser",
     "description": "Enqueuer plugin to parse xml files",
     "githubUrl": "https://github.com/enqueuer-land/enqueuer-plugin-xml-parser"
+  },
+  {
+    "name": "enqueuer-postman-converter",
+    "description": "Enqueuer plugin to convert and use postman collections as enqueuer requisitions.",
+    "githubUrl": "https://github.com/enqueuer-land/enqueuer-postman-converter"
   }
 ]
