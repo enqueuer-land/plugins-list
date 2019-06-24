@@ -58,5 +58,15 @@
     "name": "enqueuer-plugin-shell",
     "description": "Enqueuer plugin for shell commands",
     "githubUrl": "https://github.com/enqueuer-land/enqueuer-plugin-shell"
+  },
+  {
+    "name": "enqueuer-plugin-soap",
+    "description": "Enqueuer plugin for soap",
+    "githubUrl": "https://github.com/thiagobustamante/enqueuer-plugin-soap"
+  },
+  {
+    "name": "enqueuer-cucumber",
+    "description": "Implement cucumber steps as enqueuer requisitions",
+    "githubUrl": "https://github.com/thiagobustamante/enqueuer-cucumber"
   }
 ]
