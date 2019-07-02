@@ -68,5 +68,10 @@
     "name": "enqueuer-cucumber",
     "description": "Implement cucumber steps as enqueuer requisitions",
     "githubUrl": "https://github.com/thiagobustamante/enqueuer-cucumber"
+  },
+  {
+    "name": "enqueuer-plugin-anydb",
+    "description": "Enqueuer plugin for any db support",
+    "githubUrl": "https://github.com/guilhermecorsino/enqueuer-plugin-anydb"
   }
 ]
