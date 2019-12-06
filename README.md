@@ -1,5 +1,7 @@
 ## Enqueuer Plugins
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/enqueuer-land/plugins-list.svg)](https://greenkeeper.io/)
+
 
 This repository is meant to be used to find enqueuer plug-ins made the community and the enqueuer team.
 
