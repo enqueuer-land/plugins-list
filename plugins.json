@@ -1,5 +1,10 @@
 [
   {
+    "name": "enqueuer-plugin-http-bind",
+    "description": "Enqueuer plugin to support http and subscription bindings",
+    "githubUrl": "https://github.com/thiagobustamante/enqueuer-plugin-http"
+  },
+  {
     "name": "enqueuer-plugin-html-report",
     "description": "Enqueuer plugin to generate pretty html reports",
     "githubUrl": "https://github.com/enqueuer-land/enqueuer-plugin-html-report"
