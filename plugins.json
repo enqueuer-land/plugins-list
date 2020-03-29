@@ -5,6 +5,11 @@
     "githubUrl": "https://github.com/thiagobustamante/enqueuer-plugin-http"
   },
   {
+    "name": "enqueuer-plugin-redis-db",
+    "description": "Enqueuer plugin to handle redis as a database",
+    "githubUrl": "https://github.com/enqueuer-land/enqueuer-plugin-redis-db"
+  },
+  {
     "name": "enqueuer-plugin-html-report",
     "description": "Enqueuer plugin to generate pretty html reports",
     "githubUrl": "https://github.com/enqueuer-land/enqueuer-plugin-html-report"
